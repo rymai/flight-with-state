@@ -15,7 +15,6 @@
     "requirejs": "^2.1.15"
   },
   "scripts": {
-    "install": "bower install",
     "test": "karma start --single-run",
     "watch-test": "karma start"
   },
